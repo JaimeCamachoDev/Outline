@@ -11,10 +11,6 @@ _**Efecto de contorno para objetos 3D. Genera bordes visibles, ideal para resalt
    
 <footer>
    
-## Después de crear el repositorio desde la plantilla, asegúrate de revisar lo siguiente:
-
-- [ ] Confirmar que **Releases** sigue activado ✅
-
 ## Reference
 
 https://www.youtube.com/watch?v=rqMcPZoEc3U
