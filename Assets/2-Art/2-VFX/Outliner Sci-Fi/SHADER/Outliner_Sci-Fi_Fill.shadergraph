@@ -896,13 +896,13 @@
     "m_ActiveSubTarget": {
         "m_Id": "24d08d9c0f5643bdaa1386858a3979fa"
     },
-    "m_AllowMaterialOverride": true,
+    "m_AllowMaterialOverride": false,
     "m_SurfaceType": 1,
     "m_ZTestMode": 8,
     "m_ZWriteControl": 0,
     "m_AlphaMode": 2,
     "m_RenderFace": 2,
-    "m_AlphaClip": false,
+    "m_AlphaClip": true,
     "m_CastShadows": false,
     "m_ReceiveShadows": false,
     "m_DisableTint": false,
@@ -1601,8 +1601,8 @@
         "m_Position": {
             "serializedVersion": "2",
             "x": -572.0,
-            "y": -389.0,
-            "width": 209.00003051757813,
+            "y": -299.0,
+            "width": 209.0,
             "height": 34.0
         }
     },
@@ -1840,7 +1840,7 @@
     "m_ShaderOutputName": "B",
     "m_StageCapability": 3,
     "m_Value": {
-        "x": 0.10000000149011612,
+        "x": 10.0,
         "y": 0.0,
         "z": 0.0,
         "w": 0.0
