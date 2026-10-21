@@ -26,11 +26,14 @@ https://github.com/Unity-Technologies/SpaceshipDemo
 
 ## Contenido
 
-* **VFX Graph:** `Outliner_Sci-Fi`
-* **Shader Graph:** `Outline`, `Outliner`, `Outliner_Sci-Fi_Fill`, `Outliner_Sci-Fi_Stroke`, `StrokeEffect_Graph`
-* **Sub Graphs:** `ScreenSpaceBayerDithering`, `SpaceFog`
-* **Prefabs:** `Outliner_Sci-Fi`
-* **Escenas:** `Assets/3-Scenes/Main.unity`, `Assets/3-Scenes/Outline.unity`
+Efectos en `Assets/2-Art/2-VFX/`:
+
+| Efecto | VFX | Shader Graph | Shaders | Scripts | Prefabs | Materiales |
+|---|---|---|---|---|---|---|
+| **BluePrint** | — | 4 | — | — | — | — |
+| **Outliner Sci-Fi** | 1 | 3 | — | — | 1 | 1 |
+
+**Escenas de demostración:** `Assets/3-Scenes/Main.unity`, `Assets/3-Scenes/Outline.unity`
 
 ## Uso
 
